@@ -1,1 +1,1 @@
-select * from TEST1;
+insert into TEST1 values ('as','as');
