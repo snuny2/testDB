@@ -1,0 +1,42 @@
+{
+    "workbench.editor.enablePreview": false,
+    "python.defaultInterpreterPath": "C:\\Python310\\python.exe",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "oracledevtools.connectionConfiguration.configFilesFolder": "C:\\Users\\user\\Oracle\\network\\admin",
+    "[oraclesql]": {
+        "editor.suggest.showSnippets": true,
+        "editor.quickSuggestions": {
+            "comments": "on",
+            "strings": "on",
+            "other": "on"
+        }
+    },
+    "oracledevtools.connectionConfiguration.walletFileFolder": "C:\\Users\\user\\Oracle\\network\\admin",
+    "oracledevtools.bookmarkFileFolder": "C:\\Users\\user\\Oracle\\oracle.oracledevtools",
+    "oracledevtools.download.otherFolder": "C:\\Users\\user\\downloads",
+    "oracledevtools.defaultConnection": "",
+    "oracledevtools.connections": [
+        {
+            "authenticationType": 2,
+            "dBAPrivilege": "None",
+            "userID": "C##TESTDB",
+            "passwordSaved": true,
+            "dataSource": "localhost:1521/xe",
+            "connectionType": 2,
+            "databaseHostName": "localhost",
+            "databasePortNumber": "1521",
+            "databaseServiceName": "xe",
+            "tnsAdmin": "C:\\Users\\user\\Oracle\\network\\admin",
+            "name": "C##TESTDB.xe",
+            "color": "none",
+            "currentSchema": "",
+            "addSettingsScopeToConnectionName": false,
+            "addCurrentSchemaToConnectionName": false,
+            "filters": [],
+            "useCompatibleNamesDirectoryPath": true,
+            "passwordStore": "Secret Storage",
+            "password": null,
+            "proxyPassword": null
+        }
+    ]
+}
